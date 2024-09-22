@@ -24,6 +24,10 @@ pip install opencv-python mediapipe numpy
 2. **Install dependencies** as mentioned above.
 3. **Run the main script:** Execute `python main.py` in your terminal.
 
+# Output
+* **Video Output**
+ https://github.com/user-attachments/assets/77cbd0fd-f8f5-40e0-a13c-5d079e291153
+
 # Usage
 * **Start the application:** Run the main script.
 * **Calibrate the hand:** The application might require initial calibration for hand detection. Follow on-screen instructions.
@@ -48,3 +52,7 @@ pip install opencv-python mediapipe numpy
 # Contributions
 Contributions to this project are welcome. Please feel free to fork the repository and submit pull requests.
  
+
+
+
+
